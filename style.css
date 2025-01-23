@@ -103,8 +103,8 @@ input[type="search"]::-webkit-search-cancel-button {
 .logo {
     display: flex;
     align-items: center;
-    text-decoration: none; /* Quita el subrayado del enlace */
-    color: inherit; /* Mantiene el color del texto */
+    text-decoration: none;
+    color: inherit;
 }
 
 .logo img {
@@ -294,7 +294,7 @@ nav ul li a:hover {
 
 .imagen img {
     width: 100%;
-    max-width: 500px; /* Ajusta el tamaño de la imagen */
+    max-width: 500px;
     border-radius: 5px;
 }
 
@@ -307,7 +307,7 @@ nav ul li a:hover {
 .contenido h2 {
     font-size: 30px;
     font-weight: bold;
-    color: #8b5e3c; /* Color marrón */
+    color: #8b5e3c;
 }
 
 .contenido p {
